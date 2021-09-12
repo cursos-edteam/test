@@ -137,7 +137,7 @@ export default defineComponent({
     .container__image {
       padding-bottom: 10px;
       .image {
-        background: url('/logoTelegram.png') no-repeat;
+        background: url('https://cursos-edteam.github.io/test/logoTelegram.png') no-repeat;
         background-position: center;
         background-size: contain;
         height: 150px;
